@@ -14,4 +14,4 @@ Let's get started on your first Dash app.
 6. In the Manual deploy section, ensure the deployed branch is set 'master'. Click 'Deploy branch'.
 7. After it says your app was successfully deployed, click 'View'.
 
-Ta da! 
+Ta da! Check out the Dash documentation https://dash.plot.ly/ to customize your app.
